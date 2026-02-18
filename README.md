@@ -1,16 +1,72 @@
-## Hi there 👋
+<!-- PROFILE HEADER -->
+<h1 align="center">Hi 👋, I'm Rudra Illhe</h1>
+<h3 align="center">Frontend Developer | React.js Enthusiast | UI/UX Focused</h3>
 
-<!--
-**Rudra23-bit/Rudra23-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 💻 Frontend Developer specializing in **React.js**
+- 🌱 Currently improving my skills in **Advanced React & Performance Optimization**
+- 🔗 Strong understanding of **REST API Integration**
+- 🎯 Passionate about building **responsive, scalable & user-centric web applications**
+- 📫 Reach me at: **rudraillhe@gmail.com**
+
+---
+
+## 🚀 Tech Stack
+
+### 👨‍💻 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
+</p>
+
+### ⚙️ Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  
+  <a href="YOUR_PORTFOLIO_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 💡 Featured Skills
+
+- ⚛️ Component-Based Architecture
+- 🔄 State Management
+- 🌐 REST API Integration
+- 📱 Responsive Web Design
+- 🎨 Modern UI with Tailwind CSS
+- 🚀 Performance Optimization
+
+---
+
+⭐️ From [YOUR_USERNAME](https://github.com/Rudra23-bit)
