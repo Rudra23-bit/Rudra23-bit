@@ -43,16 +43,16 @@
 ## 🌐 Connect With Me
 
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/rudra-illhe/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <a href="https://github.com/Rudra23-bit/Rudra23-bit" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   
   <a href="YOUR_PORTFOLIO_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://github.com/Rudra23-bit"/>
   </a>
 </p>
 
