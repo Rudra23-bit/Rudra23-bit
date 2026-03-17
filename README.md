@@ -51,8 +51,8 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   
-  <a href="YOUR_PORTFOLIO_LINK" target="_blank">
-    <img src="https://github.com/Rudra23-bit"/>
+  <a href="https://github.com/Rudra23-bit" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
